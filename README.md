@@ -42,11 +42,11 @@ import warnings
 
 ## Examples
 
-[Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%2010.47.05%20AM.png)
+![Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%2010.47.05%20AM.png)
 
-[Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%2010.47.22%20AM.png)
+![Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%2010.47.22%20AM.png)
 
-[Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%2010.48.03%20AM.png)
+![Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%2010.48.03%20AM.png)
 
 ---
 
