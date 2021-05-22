@@ -9,17 +9,18 @@ In this challenge, we assume the roles of growth analysts at MercadoLibre. With 
 
 Before attempting to execute any Python code in credit_risk_resampling.ipynb, it is imperative that your development environment holds the following modules:
 
-numpy - Scientific computing module
+[numpy](https://numpy.org/doc/stable/) - Scientific computing module
 
-pandas - Data analysis module
+[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
 
-pathlib - Object-oriented filesystem path library
+[pathlib](https://docs.python.org/3/library/pathlib.html) - Object-oriented filesystem path library
 
-sklearn - Machine learning module
+[sklearn](https://sklearn.org/) - Machine learning module
 
-imblearn - Imbalanced machine learning module
+[imblearn](https://imbalanced-learn.org/stable/introduction.html) - Imbalanced machine learning module
 
-warnings - System alerts
+[warnings](https://docs.python.org/3/library/warnings.html) - System alerts
+
 ---
 
 ## Installation Guide
@@ -35,6 +36,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 from imblearn.metrics import classification_report_imbalanced
 import warnings
+
 ```
 ---
 
