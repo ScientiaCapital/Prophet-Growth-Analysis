@@ -3,11 +3,9 @@
 In this challenge, we assume the roles of growth analysts at MercadoLibre. With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. We've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. Therefore, we must determine whether the ability to predict search traffic can translate into the ability to successfully trade the corresponding stock.
 
 ![Prophet](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/prophet2image.png)
-
 ---
 
 ## Technologies
-
 
 Before attempting to execute any Python code in credit_risk_resampling.ipynb, it is imperative that your development environment holds the following modules:
 
@@ -22,7 +20,6 @@ sklearn - Machine learning module
 imblearn - Imbalanced machine learning module
 
 warnings - System alerts
-
 ---
 
 ## Installation Guide
@@ -38,9 +35,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 from imblearn.metrics import classification_report_imbalanced
 import warnings
-
 ```
-
 ---
 
 ## Examples
