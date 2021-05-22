@@ -2,7 +2,7 @@
 ![Forecasting_Net_Prophet](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%209.56.41%20AM.png)
 In this challenge, we assume the roles of growth analysts at MercadoLibre. With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. We've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. Therefore, we must determine whether the ability to predict search traffic can translate into the ability to successfully trade the corresponding stock.
 
-[Example1](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%209.56.41%20AM.png)
+![Example1]()
 
 ---
 
