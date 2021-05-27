@@ -48,6 +48,9 @@ import warnings
 
 ![Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-22%20at%2010.48.03%20AM.png)
 
+![Example](https://github.com/ScientiaCapital/Prophet-Growth-Analysis/blob/main/Resources/Screen%20Shot%202021-05-26%20at%207.49.18%20PM.png)
+
+
 ---
 
 ## Usage
